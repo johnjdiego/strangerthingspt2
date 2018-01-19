@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="dsearch testing">fa5af5c1db73c300565973568c961934</application>
+        <filter/>
+        <name>dsearch testing Table</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_dsearch_test.user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>john.diego@snc</sys_created_by>
+        <sys_created_on>2018-01-19 23:37:48</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fe5af5c1db73c300565973568c961936</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dsearch testing Table</sys_name>
+        <sys_package display_value="dsearch testing" source="x_snc_dsearch_test">825a7181db73c300565973568c96196a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="dsearch testing">825a7181db73c300565973568c96196a</sys_scope>
+        <sys_update_name>sys_ui_module_fe5af5c1db73c300565973568c961936</sys_update_name>
+        <sys_updated_by>john.diego@snc</sys_updated_by>
+        <sys_updated_on>2018-01-19 23:37:48</sys_updated_on>
+        <table>x_snc_dsearch_test_dsearch_testing_table</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
